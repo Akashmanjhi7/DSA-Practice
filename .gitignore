@@ -1,0 +1,10 @@
+# Ignore all node_modules folders in subfolders
+**/node_modules/
+
+# Ignore log and env files
+*.log
+.env
+
+# Ignore OS and editor junk files
+.DS_Store
+.vscode/
